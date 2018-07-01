@@ -1,1 +1,2 @@
-﻿打开终端执行'npm install',然后执行'npm run start'，然后在浏览器中运行index.html文件,此项目开发环境为windows10 + webStorm2017 + chrome/firefox
+﻿这个组件的开发环境为windows10 + webStorm2017 + chrome67 + webpack + babel，使用ES6和原生JS开发，未做浏览器兼容。能够实现遍历多重数组并把数组的title属性转换为li标签的内容文本，把数组的id属性转换为li标签的id属性，具有展开和折叠的动画效果，鼠标移入移出时背景色改变的动画效果，以及双击列表打印当前列表信息{title:"....",id:"..."}等。这里直接上组件的代码，代码中已有完整注释，组件中使用得比较多的技巧有递归遍历、事件代理、三元运算
+打开终端执行'npm install',然后执行'npm run start'，

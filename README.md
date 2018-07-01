@@ -1,0 +1,1 @@
+﻿打开终端执行'npm install',然后执行'npm run start'，然后在浏览器中运行index.html文件,此项目开发环境为windows10 + webStorm2017 + chrome/firefox

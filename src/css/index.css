@@ -1,0 +1,13 @@
+
+.container {
+    position: relative;
+    top: 50px;
+    left: 50px;
+    width: auto;
+    height: auto;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Times, TimesNR, 'New Century Schoolbook', Georgia, 'New York', serif; ;
+}
